@@ -8,3 +8,8 @@ h1 {
 img {
   width: 100%;
 }
+figcaption {
+  font-size: 0.8rem;
+  font-style: italic;
+  text-align: center;
+}
