@@ -4,10 +4,10 @@ html {
 }
 
 header, h2 {
-  font-family: 'Patua One';
+  font-family: "Patua One";
 }
 
-h1 {
+h1, h2 {
   color: #5d8432;
 
   text-transform: uppercase;
@@ -23,7 +23,6 @@ figcaption {
 }
 
 a,
-
 a:link {
   color: #793284;
 }
@@ -33,7 +32,7 @@ a:hover {
 }
 
 ol {
-    list-style-type: none;
+  list-style-type: none;
 }
 
 .hadrosaur {
