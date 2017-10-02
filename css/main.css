@@ -2,6 +2,9 @@ html {
     background-color: #f2f1ed;
     font-family: Georgia, serif;
 }
+header, h1, nav {
+  font-family: 'Patua One';
+}
 h1 {
   color: #5d8432;
   text-transform: uppercase;
