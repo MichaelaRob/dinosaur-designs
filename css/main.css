@@ -36,8 +36,9 @@ ol {
 }
 
 .hadrosaur {
-  font-size: 0.9rem;
+font-size: 0.9rem;
 }
+
 .iguanodon, .stegosaurus {
-  font-size: 0.75rem;
+font-size: 0.75rem;
 }
