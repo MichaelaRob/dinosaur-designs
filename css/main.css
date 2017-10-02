@@ -15,10 +15,10 @@ figcaption {
 }
 a,
 a:link {
-  color: #793284
+  color: #793284;
 }
 a:hover {
-  color: #b42885
+  color: #b42885;
 }
 ol {
     list-style-type: none;
