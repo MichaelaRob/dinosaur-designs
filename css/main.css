@@ -1,7 +1,7 @@
 html {
   background-color: #f2f1ed;
   font-family: Georgia, serif;
-  line-height: 1.5;
+  line-height: 1.51;
 }
 
 header, h2 {
@@ -21,6 +21,7 @@ img {
 figcaption {
   font-style: italic;
   text-align: center;
+  line-height: 1.51;
 }
 
 a,
@@ -39,6 +40,7 @@ ol {
 a {
   text-decoration: none;
   font-size: 1.1rem;
+  line-height: 1.51;
 }
 
 .hadrosaur {
